@@ -25,7 +25,7 @@ This API leverages google cloud's storage library in python, allowing direct acc
 # SCIN PowerBI Report and Look Up tool
 
 
-![[Screenshot2.png]]
+![ScreenShot](Screenshot2.png)
 
 
-![[Screenshot1.png]]
+![ScreenShot](Screenshot1.png)
